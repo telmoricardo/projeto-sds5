@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { SalePage } from "types/sale";
 
 type Props = {
